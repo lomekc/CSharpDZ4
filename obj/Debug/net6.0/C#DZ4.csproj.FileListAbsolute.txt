@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\bin\Debug\net6.0\C#DZ4.exe
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\bin\Debug\net6.0\C#DZ4.deps.json
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\bin\Debug\net6.0\C#DZ4.runtimeconfig.json
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\bin\Debug\net6.0\C#DZ4.dll
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\bin\Debug\net6.0\C#DZ4.pdb
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\C#DZ4.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\C#DZ4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\C#DZ4.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\C#DZ4.AssemblyInfo.cs
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\C#DZ4.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\C#DZ4.dll
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\refint\C#DZ4.dll
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\C#DZ4.pdb
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\C#DZ4.genruntimeconfig.cache
+D:\GeekBrains\C#\C#ДЗ\C#DZ4\obj\Debug\net6.0\ref\C#DZ4.dll
